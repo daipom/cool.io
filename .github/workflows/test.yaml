@@ -19,6 +19,7 @@ jobs:
         os:
           - ubuntu
           - macos
+          - windows
         
         ruby:
           - "3.0"
